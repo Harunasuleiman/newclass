@@ -1,0 +1,9 @@
+print(5+8)num1 = 41
+num2 = 21
+print(num1/num2)
+age1 = int(input('Enter your age:'))
+age12= int(input('Enter your age:'))
+if age1 > age12:
+    print('age 1 is the oldest')
+else:
+    print('age2 is the oldest')
